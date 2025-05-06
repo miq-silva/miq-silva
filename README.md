@@ -4,17 +4,12 @@ About me :scream:
 
 My name is Miquéias Silva from Brazil (🇧🇷). I've been working as a TI.
 
-In my free time I like to play (and watch) football (♦), to watch movies (🎞️) and series (📺), to read books (📚) and to listen to music (🎵).
+In my free time I like to play (and watch) football (:soccer:⚽), to read books (📚) and to  play video games (🎮).
 
 
 Would you like to find me?
 
-
-[![Instagram Badge]
-
-[![Linkedin Badge]
-
-[![Discord Badge]
+[![Linkedin Badge] https://www.linkedin.com/in/miqu%C3%A9ias-silva/
 
 
 <!--
