@@ -2,11 +2,13 @@
 
 My name is Miquéias Silva from Brazil (🇧🇷). I've been working as a TI.
 
-In my free time I like to play (and watch) football (⚽), to read books (📚) and to  play video games (🎮).
+In my free time I like to play (and watch) football⚽ and to read books📚.
 
 
 Would you like to find me?
-![image](https://www.linkedin.com/in/miqu%C3%A9ias-silva/)
+
+![image](https://github.com/https://www.linkedin.com/in/miqu%C3%A9ias-silva/)
+
 
 
 
