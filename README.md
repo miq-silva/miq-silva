@@ -2,9 +2,10 @@
 
 My name is Miquéias Silva, I'm Brazilian (🇧🇷). 
 
-💻I work in IT in the infrastructure area, but I'm venturing into programming.
+💻 IT professional in the infrastructure area, exploring the world of programming.
 
-In my free time I like to play (and watch) soccer⚽ and read books📚.
+⚽ Passionate about football, both playing and watching.
+📚 Always seeking new knowledge through reading.
 
 📫 Where to find me??
 
