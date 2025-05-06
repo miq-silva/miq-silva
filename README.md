@@ -7,7 +7,7 @@ In my free time I like to play (and watch) football⚽ and to read books📚.
 
 Would you like to find me?
 
-![Descrição da Imagem](https://github.com/in/miqu%C3%A9ias-silva/assets/ca924368-e124-4c92-89f8-6bb0d7dc7b83)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/miqu%C3%A9ias-silva/)
 
 
 
